@@ -1,0 +1,3 @@
+[submodule "src/insights"]
+	path = src/insights
+	url = git@github.com:Snehal1112/insights.git
